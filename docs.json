@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "venus",
+  "theme": "palm",
   "name": "House of Voi Documentation",
   "colors": {
-    "primary": "#0A2540",
-    "light": "#00D8FF",
-    "dark": "#0056D2"
+    "primary": "#1B1B1B",
+    "light": "#E5B567",
+    "dark": "#8B0000"
   },
-  "favicon": "/favicon.ico",
+  "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
@@ -16,51 +16,8 @@
           {
             "group": "Introduction",
             "pages": [
+              "index",
               "introduction/what-is-house-of-voi"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Token",
-        "groups": [
-          {
-            "group": "$HoV Token",
-            "pages": [
-              "hov-token/overview"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Protocol",
-        "groups": [
-          {
-            "group": "Protocol Mechanics",
-            "pages": [
-              "protocol-mechanics/system-architecture"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "TestNet",
-        "groups": [
-          {
-            "group": "TestNet Campaign",
-            "pages": [
-              "testnet-campaign/overview"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Community",
-        "groups": [
-          {
-            "group": "Market and Community",
-            "pages": [
-              "market-and-community/target-segments"
             ]
           }
         ]
@@ -87,8 +44,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.png",
-    "dark": "/logo/dark.png"
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
   },
   "navbar": {
     "links": [
