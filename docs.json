@@ -1,55 +1,66 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
+  "theme": "venus",
+  "name": "House of Voi Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#0A2540",
+    "light": "#00D8FF",
+    "dark": "#0056D2"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.ico",
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Overview",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Introduction",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "introduction/what-is-house-of-voi"
             ]
           }
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Token",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "$HoV Token",
             "pages": [
-              "api-reference/introduction"
+              "hov-token/overview"
             ]
-          },
+          }
+        ]
+      },
+      {
+        "tab": "Protocol",
+        "groups": [
           {
-            "group": "Endpoint Examples",
+            "group": "Protocol Mechanics",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "protocol-mechanics/system-architecture"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "TestNet",
+        "groups": [
+          {
+            "group": "TestNet Campaign",
+            "pages": [
+              "testnet-campaign/overview"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Community",
+        "groups": [
+          {
+            "group": "Market and Community",
+            "pages": [
+              "market-and-community/target-segments"
             ]
           }
         ]
@@ -58,45 +69,53 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Discord Community",
+          "href": "https://discord.gg/5UCx2G5qeR",
+          "icon": "discord"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "X (Twitter)",
+          "href": "https://x.com/houseofvoi",
+          "icon": "x"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "GitHub Repo",
+          "href": "https://github.com/House-of-Voi",
+          "icon": "github"
         }
       ]
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@houseofvoi.com"
+      },
+      {
+        "label": "Discord",
+        "href": "https://discord.gg/5UCx2G5qeR"
+      },
+      {
+        "label": "X (Twitter)",
+        "href": "https://x.com/houseofvoi"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://dashboard.houseofvoi.com"
     }
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/houseofvoi",
+      "github": "https://github.com/House-of-Voi",
+      "discord": "https://discord.gg/5UCx2G5qeR"
     }
   }
 }

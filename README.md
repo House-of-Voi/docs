@@ -1,32 +1,54 @@
-# Mintlify Starter Kit
+# House of Voi Documentation
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+Welcome to the official documentation repository for [House of Voi](https://dashboard.houseofvoi.com), a decentralized, liquidity-pooled gambling protocol built on immutable smart contracts. House of Voi redefines online gaming with transparent, non-custodial gameplay, a Web2-level user experience, and a loyalty system powered by the $HoV token.
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+## About House of Voi
 
-### Development
+House of Voi combines the scale of online gambling with crypto-native infrastructure. Key features include:
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview the documentation changes locally. To install, use the following command
+- **Immutable Game Contracts**: Provably fair games with fixed RTP and logic.
+- **Liquidity Pools**: Players and LPs earn from the house edge, with permissionless withdrawals.
+- **$HoV Token**: A loyalty and incentive token earned through wagering, used for status tiers and jackpot eligibility.
+- **TestNet Campaign**: Early adopters can test mechanics and earn airdrop eligibility.
 
-```
-npm i -g mint
-```
+Learn more in our [Introduction](introduction/what-is-house-of-voi).
 
-Run the following command at the root of your documentation (where docs.json is)
+## Documentation
 
-```
-mint dev
-```
+This repository hosts the public documentation for House of Voi, built with [Mintlify](https://mintlify.com). Explore the key sections:
 
-### Publishing Changes
+- **[Introduction](introduction/what-is-house-of-voi)**: Overview of the protocol and its vision.
+- **[$HoV Token](hov-token-overview)**: Details on earning, burning, and tokenomics.
+- **[Protocol Mechanics](protocol-mechanics/system-architecture)**: Technical architecture of game contracts and liquidity pools.
+- **[TestNet Campaign](testnet-campaign/overview)**: How to participate and qualify for airdrops.
+- **[Market and Community](market-and-community/target-segments)**: Target audiences and community engagement.
 
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
+View the live documentation at [docs.houseofvoi.com](https://docs.houseofvoi.com) (coming soon).
 
-#### Troubleshooting
+## Getting Started
 
-- If the dev environment isn't running - Run `mint update` to ensure you have the most recent version of the CLI.
-- Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+1. **Visit the Docs**: Start with [What is House of Voi?](introduction/what-is-house-of-voi) to understand the protocol.
+2. **Join the TestNet**: Check [TestNet Campaign Overview](testnet-campaign/overview) to participate and earn rewards.
+3. **Contribute**: We’re building in the open! Submit pull requests to add or improve content.
+
+## Contributing
+
+We welcome contributions to make our documentation clearer and more comprehensive. To contribute:
+
+1. Fork this repository.
+2. Create or edit markdown files in the relevant folders (e.g., `introduction/`, `hov-token/`).
+3. Submit a pull request with a clear description of your changes.
+
+Please follow our [Code of Conduct](https://github.com/House-of-Voi/docs/blob/main/CODE_OF_CONDUCT.md) (coming soon).
+
+## Community
+
+Join our community to stay updated and engage with the House of Voi ecosystem:
+
+- **Discord**: [Join our server](https://discord.gg/5UCx2G5qeR) for discussions and support.
+- **X (Twitter)**: Follow [@houseofvoi](https://x.com/houseofvoi) for news and updates.
+- **GitHub**: Star this repo and explore our projects at [House-of-Voi](https://github.com/House-of-Voi).
+
+## Contact
+
+For questions or support, reach out to [support@houseofvoi.com](mailto:support@houseofvoi.com).
