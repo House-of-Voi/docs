@@ -21,6 +21,50 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Token",
+        "groups": [
+          {
+            "group": "$HoV Token",
+            "pages": [
+              "hov-token/overview"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Protocol",
+        "groups": [
+          {
+            "group": "Protocol Mechanics",
+            "pages": [
+              "protocol-mechanics/system-architecture"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "TestNet",
+        "groups": [
+          {
+            "group": "TestNet Campaign",
+            "pages": [
+              "testnet-campaign/overview"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Community",
+        "groups": [
+          {
+            "group": "Market and Community",
+            "pages": [
+              "market-and-community/target-segments"
+            ]
+          }
+        ]
       }
     ],
     "global": {

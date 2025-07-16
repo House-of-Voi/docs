@@ -15,24 +15,24 @@ House of Voi combines the scale of online gambling with crypto-native infrastruc
 - **$HoV Token**: A loyalty and incentive token earned through wagering, used for status tiers and jackpot eligibility.
 - **TestNet Campaign**: Early adopters can test mechanics and earn airdrop eligibility.
 
-Learn more in our [Introduction](introduction/what-is-house-of-voi).
+Learn more in our [Introduction](/introduction/what-is-house-of-voi).
 
 ## Documentation
 
 This repository hosts the public documentation for House of Voi, built in the open. Explore the key sections:
 
-- **[Introduction](introduction/what-is-house-of-voi)**: Overview of the protocol and its vision.
-- **[$HoV Token](hov-token-overview)**: Details on earning, burning, and tokenomics.
-- **[Protocol Mechanics](protocol-mechanics/system-architecture)**: Technical architecture of game contracts and liquidity pools.
-- **[TestNet Campaign](testnet-campaign-overview)**: How to participate and qualify for airdrops.
-- **[Market and Community](market-and-community/target-segments)**: Target audiences and community engagement.
+- **[Introduction](/introduction/what-is-house-of-voi)**: Overview of the protocol and its vision.
+- **[$HoV Token](/hov-token/overview)**: Details on earning, burning, and tokenomics.
+- **[Protocol Mechanics](/protocol-mechanics/system-architecture)**: Technical architecture of game contracts and liquidity pools.
+- **[TestNet Campaign](/testnet-campaign-overview)**: How to participate and qualify for airdrops.
+- **[Market and Community](/market-and-community/target-segments)**: Target audiences and community engagement.
 
 View the live documentation at [docs.houseofvoi.com](https://docs.houseofvoi.com) (coming soon).
 
 ## Getting Started
 
-1. **Visit the Docs**: Start with [What is House of Voi?](introduction/what-is-house-of-voi) to understand the protocol.
-2. **Join the TestNet**: Check [TestNet Campaign Overview](testnet-campaign-overview) to participate and earn rewards.
+1. **Visit the Docs**: Start with [What is House of Voi?](/introduction/what-is-house-of-voi) to understand the protocol.
+2. **Join the TestNet**: Check [TestNet Campaign Overview](/testnet-campaign-overview) to participate and earn rewards.
 3. **Contribute**: Help us build! Submit pull requests to add or improve content.
 
 ## Contributing
