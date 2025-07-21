@@ -50,8 +50,8 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.houseofvoi.com"
+      "label": "Home",
+      "href": "https://houseofvoi.com"
     }
   },
   "footer": {
