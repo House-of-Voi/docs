@@ -8,87 +8,30 @@
     "dark": "#8B0000"
   },
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Overview",
-        "groups": [
-          {
-            "group": "Introduction",
-            "pages": [
-              "index",
-              "introduction/what-is-house-of-voi"
-            ]
-          }
+        "group": "Introduction",
+        "pages": [
+          "introduction/overview"
         ]
       },
       {
-        "tab": "Token",
-        "groups": [
-          {
-            "group": "$HoV Token",
-            "pages": [
-              "hov-token/overview"
-            ]
-          }
+        "group": "$HoV Token",
+        "pages": [
+          "hov-token/token-overview"
         ]
       },
       {
-        "tab": "Protocol",
-        "groups": [
-          {
-            "group": "Protocol Mechanics",
-            "pages": [
-              "protocol-mechanics/system-architecture"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "TestNet",
-        "groups": [
-          {
-            "group": "TestNet Campaign",
-            "pages": [
-              "testnet-campaign/overview"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Community",
-        "groups": [
-          {
-            "group": "Market and Community",
-            "pages": [
-              "market-and-community/target-segments"
-            ]
-          }
+        "group": "TestNet Campaign",
+        "pages": [
+          "testnet-campaign/testnet-overview"
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Discord Community",
-          "href": "https://discord.gg/5UCx2G5qeR",
-          "icon": "discord"
-        },
-        {
-          "anchor": "X (Twitter)",
-          "href": "https://x.com/houseofvoi",
-          "icon": "x"
-        },
-        {
-          "anchor": "GitHub Repo",
-          "href": "https://github.com/House-of-Voi",
-          "icon": "github"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/hov-light.png",
+    "dark": "/logo/hov-dark.png"
   },
   "navbar": {
     "links": [
