@@ -22,12 +22,6 @@
         "pages": [
           "hov-token/token-overview"
         ]
-      },
-      {
-        "group": "TestNet Campaign",
-        "pages": [
-          "testnet-campaign/testnet-overview"
-        ]
       }
     ]
   },
